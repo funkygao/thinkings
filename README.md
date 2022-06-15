@@ -1,5 +1,5 @@
 # thinkings
-工程实践思考，知识沉淀
+理论参考，实践思考，知识沉淀
 
 <details>
 <summary><b>Table of content</b></summary>
