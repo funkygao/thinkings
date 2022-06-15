@@ -8,6 +8,7 @@
    * [Complex Business System](#complex-business-system)
       * [Technical Debt](#technical-debt)
       * [DDD Practice](#ddd-practice)
+      * [Team Knowledge Ingestion](#team-knowledge-ingestion)
 
 </details>
 
@@ -22,3 +23,7 @@ Please see details in [Technical Debt](TechnicalDebt.md).
 ### DDD Practice
 
 Please see details in [DDD Practice](DDD.md).
+
+### Team Knowledge Ingestio 团队的知识注入
+
+Please see details in [Team Knowledge Ingestion](TeamKnowledgeIngestion.md).
